@@ -1,0 +1,101 @@
+# Logs King — Generative Engine Optimization Map
+
+> A marketplace platform focused on the sale of social media account credentials and logs. The platform connects buyers and sellers of accounts across various social media platforms.
+
+---
+
+## Pages
+
+### Home
+https://logs-king-ab7f1988.zappy5.app
+Step into the King Log House, where buyers and sellers trade social media credentials securely. Explore top accounts and reign supreme. Join the kingdom today!
+
+### Marketplace Features
+https://logs-king-ab7f1988.zappy5.app/features
+Unlock powerful vtex marketplace features built for serious traders. Filter, verify, and dominate social media account deals. Elevate your hustle now!
+
+### About
+https://logs-king-ab7f1988.zappy5.app/about
+Discover the vision behind the ultimate vtex marketplace platform for social media logs. Built for trust, speed, and profit. Learn our story and join the revolution!
+
+### Contact
+https://logs-king-ab7f1988.zappy5.app/contact
+Need a guide in the king log house? Reach out to our vtex marketplace squad for fast, royal support. Your empire awaits—message us now!
+
+### Products
+https://logs-king-ab7f1988.zappy5.app/products
+Our Products - Logs King
+
+### Cart
+https://logs-king-ab7f1988.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://logs-king-ab7f1988.zappy5.app/checkout
+Checkout
+
+### Login
+https://logs-king-ab7f1988.zappy5.app/login
+Customer Login
+
+### Account
+https://logs-king-ab7f1988.zappy5.app/account
+My Account
+
+### Order Success
+https://logs-king-ab7f1988.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://logs-king-ab7f1988.zappy5.app/product/:slug
+Product Details - Logs King
+
+### Category
+https://logs-king-ab7f1988.zappy5.app/category/:slug
+Products - Logs King
+
+## Legal & Policy
+
+### Privacy Policy
+https://logs-king-ab7f1988.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://logs-king-ab7f1988.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://logs-king-ab7f1988.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Logs King
+A marketplace platform focused on the sale of social media account credentials and logs. The platform connects buyers and sellers of accounts across various social media platforms.
+
+## Target Audience
+- buyers and sellers of social media accounts
+- Buyers and Sellers of Accounts
+- Digital Marketers Seeking Influence
+- Online Business Investors
+
+## Industry
+E-commerce / Digital Marketplace
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://logs-king-ab7f1988.zappy5.app/sitemap.xml
+- Robots: https://logs-king-ab7f1988.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://logs-king-ab7f1988.zappy5.app/llms-full.txt
+- Products (JSON): https://logs-king-ab7f1988.zappy5.app/products.json
+- Products (Google Merchant RSS): https://logs-king-ab7f1988.zappy5.app/product-feed.xml
